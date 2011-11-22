@@ -5,7 +5,7 @@ The library is silly and it sucks and as such it shouldn't be used by anyone.
 
 ## Install
 
-Just download pdict.py and put it somewhere where you software can find it (e.g. same directory)
+Just download pdicts.py and put it somewhere where you software can find it (e.g. same directory)
 
 ## Usage Example
 ```python
