@@ -10,7 +10,7 @@ Just download [pdicts.py](https://raw.github.com/pdamoc/pdicts/master/pdicts.py)
 ## Usage Example
 ```python
 from pdicts import PersistentDict
-d = PersistentDict(dbfile)
+d = PersistentDict("storage.sqlite")
 
 #testing some adds
 d['mission'] = "Let the beauty of what you love be what you do"
@@ -20,3 +20,7 @@ print d.keys() #testing the saved keys
 print d['mission'] #testing a simple get
 print d['hate'] #testing a missing key
 ```
+
+## Sucking Less
+
+If you see simple ways this library could suck less, please feel free to contribute your ideas. 
