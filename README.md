@@ -1,7 +1,7 @@
 # Introduction 
 
 **pdict** is an implementation of a persistent dictionary using sqlite3 and json libraries.
-The library is silly and it sucks and as such it shouldn't be used by anyone. 
+The library is silly and it sucks and as such it shouldn't be used by anyone. :)
 
 ## Install
 
